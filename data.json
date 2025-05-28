@@ -1,0 +1,572 @@
+{
+    "Daikin": {
+        "Канальные": {
+            "Invertor": {},
+            "OnOff": {}
+        },
+        "Кассетные": {
+            "Invertor": {},
+            "OnOff": {}
+        },
+        "Настенные": {
+            "Invertor": {},
+            "OnOff": {}
+        },
+        "Универсальные": {
+            "Invertor": {},
+            "OnOff": {}
+        }
+    },
+    "Pioneer": {
+        "Канальные": {
+            "Invertor": {},
+            "OnOff": {}
+        },
+        "Кассетные": {
+            "Invertor": {},
+            "OnOff": {}
+        },
+        "Настенные": {
+            "Invertor": {
+                "KFRI20LW/KORI20LW": {
+                    "Description": "Сплит - система настенная инверторный компрессор",
+                    "Dimensions": {
+                        "Depth": 185,
+                        "Height": 256,
+                        "Width": 744
+                    },
+                    "Model": "Pioneer KFRI20LW/KORI20LW",
+                    "Options": "NORD-30, NORD-40, WIFI",
+                    "Pics": [
+                        "*",
+                        "*",
+                        "*"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 15
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 9.52
+                    },
+                    "Pow_cool": 2.35,
+                    "Pow_heat": 2.5,
+                    "Power_Ext": "наружный блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 34398,
+                        "P1": 37583,
+                        "R": 31850,
+                        "RRC": 52700
+                    }
+                },
+                "KFRI25LW/KORI25LW": {
+                    "Description": "Сплит - система настенная инверторный компрессор",
+                    "Dimensions": {
+                        "Depth": 185,
+                        "Height": 256,
+                        "Width": 744
+                    },
+                    "Model": "Pioneer KFRI25LW/KORI25LW",
+                    "Options": "NORD-30, NORD-40, WIFI",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri20lw_1.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri20lw_2.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri20lw_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 15
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 9.52
+                    },
+                    "Pow_cool": 2.65,
+                    "Pow_heat": 2.85,
+                    "Power_Ext": "наружный блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 36342,
+                        "P1": 39707,
+                        "R": 33650,
+                        "RRC": 54800
+                    }
+                },
+                "KFRI35LW/KORI35LW": {
+                    "Description": "Сплит - система настенная инверторный компрессор",
+                    "Dimensions": {
+                        "Depth": 185,
+                        "Height": 256,
+                        "Width": 819
+                    },
+                    "Model": "Pioneer KFRI35LW/KORI35LW",
+                    "Options": "NORD-30, NORD-40, WIFI",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri20lw_1.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri20lw_2.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri20lw_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 15
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 9.52
+                    },
+                    "Pow_cool": 3.5,
+                    "Pow_heat": 3.5,
+                    "Power_Ext": "наружный блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 44982,
+                        "P1": 49147,
+                        "R": 41650,
+                        "RRC": 65800
+                    }
+                },
+                "KFRI50LW/KORI50LW": {
+                    "Description": "Сплит - система настенная инверторный компрессор",
+                    "Dimensions": {
+                        "Depth": 221,
+                        "Height": 307,
+                        "Width": 1013
+                    },
+                    "Model": "Pioneer KFRI50LW/KORI50LW",
+                    "Options": "NORD-30, NORD-40, WIFI",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri20lw_1.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri20lw_2.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri20lw_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 25
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 9.52
+                    },
+                    "Pow_cool": 4.6,
+                    "Pow_heat": 5.2,
+                    "Power_Ext": "наружный блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 69012,
+                        "P1": 75402,
+                        "R": 63900,
+                        "RRC": 101100
+                    }
+                },
+                "KFRI70LW/KORI70LW": {
+                    "Description": "Сплит - система настенная инверторный компрессор",
+                    "Dimensions": {
+                        "Depth": 221,
+                        "Height": 307,
+                        "Width": 1013
+                    },
+                    "Model": "Pioneer KFRI70LW/KORI70LW",
+                    "Options": "NORD-30, NORD-40, WIFI",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri20lw_1.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri20lw_2.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri20lw_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 25
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 12.7
+                    },
+                    "Pow_cool": 6.15,
+                    "Pow_heat": 6.2,
+                    "Power_Ext": "наружный блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 82836,
+                        "P1": 90506,
+                        "R": 76700,
+                        "RRC": 120300
+                    }
+                }
+            },
+            "OnOff": {
+                "KFR100MW/KOR100MW": {
+                    "Description": "Сплит - система настенная on/off компрессор",
+                    "Dimensions": {
+                        "Depth": 246,
+                        "Height": 325,
+                        "Width": 1078
+                    },
+                    "Model": "Pioneer KFR100MW/KOR100MW",
+                    "Options": "NORD-30, NORD-40",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr100mw_1.png",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr50mw_2.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr50mw_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 30
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 15.8
+                    },
+                    "Pow_cool": 9.5,
+                    "Pow_heat": 9.8,
+                    "Power_Ext": "наружный блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 134298,
+                        "P1": 146733,
+                        "R": 124350,
+                        "RRC": 196200
+                    }
+                },
+                "KFR20FW/KOR20FW": {
+                    "Description": "Сплит - система настенная on/off компрессор",
+                    "Dimensions": {
+                        "Depth": 203,
+                        "Height": 255,
+                        "Width": 790
+                    },
+                    "Model": "Pioneer KFR20FW/KOR20FW",
+                    "Options": "NORD-30, NORD-40",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr20fw_1.png",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr20fw_2.png",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr20fw_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 15
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 9.52
+                    },
+                    "Pow_cool": 2.35,
+                    "Pow_heat": 2.45,
+                    "Power_Ext": "внутренний блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 18522,
+                        "P1": 20237,
+                        "R": 17150,
+                        "RRC": 36300
+                    }
+                },
+                "KFR25FW/KOR25FW": {
+                    "Description": "Сплит - система настенная on/off компрессор",
+                    "Dimensions": {
+                        "Depth": 203,
+                        "Height": 255,
+                        "Width": 790
+                    },
+                    "Model": "Pioneer KFR25FW/KOR25FW",
+                    "Options": "NORD-30, NORD-40",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr20fw_1.png",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr20fw_2.png",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr20fw_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 15
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 9.52
+                    },
+                    "Pow_cool": 2.6,
+                    "Pow_heat": 2.6,
+                    "Power_Ext": "внутренний блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 20250,
+                        "P1": 22125,
+                        "R": 18750,
+                        "RRC": 39800
+                    }
+                },
+                "KFR35FW/KOR35FW": {
+                    "Description": "Сплит - система настенная on/off компрессор",
+                    "Dimensions": {
+                        "Depth": 203,
+                        "Height": 255,
+                        "Width": 790
+                    },
+                    "Model": "Pioneer KFR35FW/KOR35FW",
+                    "Options": "NORD-30, NORD-40",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr20fw_1.png",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr20fw_2.png",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr20fw_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 15
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 9.52
+                    },
+                    "Pow_cool": 3.4,
+                    "Pow_heat": 3.4,
+                    "Power_Ext": "внутренний блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 27162,
+                        "P1": 29677,
+                        "R": 25150,
+                        "RRC": 54800
+                    }
+                },
+                "KFR50MW/KOR50MW": {
+                    "Description": "Сплит - система настенная on/off компрессор",
+                    "Dimensions": {
+                        "Depth": 212,
+                        "Height": 294,
+                        "Width": 889
+                    },
+                    "Model": "Pioneer KFR50MW/KOR50MW",
+                    "Options": "NORD-30, NORD-40",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr50mw_1.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr50mw_2.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr50mw_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 25
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 12.7
+                    },
+                    "Pow_cool": 4.8,
+                    "Pow_heat": 5.3,
+                    "Power_Ext": "внутренний блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 44064,
+                        "P1": 48144,
+                        "R": 40800,
+                        "RRC": 65300
+                    }
+                },
+                "KFR70MW/KOR70MW": {
+                    "Description": "Сплит - система настенная on/off компрессор",
+                    "Dimensions": {
+                        "Depth": 221,
+                        "Height": 307,
+                        "Width": 1013
+                    },
+                    "Model": "Pioneer KFR70MW/KOR70MW",
+                    "Options": "NORD-30, NORD-40",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr50mw_1.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr50mw_2.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfr50mw_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 25
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 12.7
+                    },
+                    "Pow_cool": 6.15,
+                    "Pow_heat": 6.7,
+                    "Power_Ext": "внутренний блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 55404,
+                        "P1": 60534,
+                        "R": 51300,
+                        "RRC": 80100
+                    }
+                }
+            },
+            "Тепловой насос -25С": {
+                "KFRI25LOW/KORI25LOW": {
+                    "Description": "Сплит - система настенная / тепловой насос",
+                    "Dimensions": {
+                        "Depth": 121,
+                        "Height": 294,
+                        "Width": 889
+                    },
+                    "Model": "Pioneer KFRI25LOW/KORI25LOW",
+                    "Options": "WIFI в комплекте",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_1.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_2.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 25
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 9.52
+                    },
+                    "Pow_cool": 2.7,
+                    "Pow_heat": 3,
+                    "Power_Ext": "наружный блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 44226,
+                        "P1": 48321,
+                        "R": 40950,
+                        "RRC": 83400
+                    }
+                },
+                "KFRI25LOW/KORI25LOW (copy)": {
+                    "Description": "Сплит - система настенная / тепловой насос",
+                    "Dimensions": {
+                        "Depth": 121,
+                        "Height": 294,
+                        "Width": 889
+                    },
+                    "Model": "Pioneer KFRI25LOW/KORI25LOW",
+                    "Options": "WIFI в комплекте",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_1.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_2.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 25
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 9.52
+                    },
+                    "Pow_cool": 2.7,
+                    "Pow_heat": 3,
+                    "Power_Ext": "наружный блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 44226,
+                        "P1": 48321,
+                        "R": 40950,
+                        "RRC": 83400
+                    }
+                },
+                "KFRI25LOW/KORI25LOW (copy 2)": {
+                    "Description": "Сплит - система настенная / тепловой насос",
+                    "Dimensions": {
+                        "Depth": 121,
+                        "Height": 294,
+                        "Width": 889
+                    },
+                    "Model": "Pioneer KFRI25LOW/KORI25LOW",
+                    "Options": "WIFI в комплекте",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_1.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_2.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 25
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 9.52
+                    },
+                    "Pow_cool": 2.7,
+                    "Pow_heat": 3,
+                    "Power_Ext": "наружный блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 44226,
+                        "P1": 48321,
+                        "R": 40950,
+                        "RRC": 83400
+                    }
+                },
+                "KFRI25LOW/KORI25LOW (copy 3)": {
+                    "Description": "Сплит - система настенная / тепловой насос",
+                    "Dimensions": {
+                        "Depth": 121,
+                        "Height": 294,
+                        "Width": 889
+                    },
+                    "Model": "Pioneer KFRI25LOW/KORI25LOW",
+                    "Options": "WIFI в комплекте",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_1.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_2.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 25
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 9.52
+                    },
+                    "Pow_cool": 2.7,
+                    "Pow_heat": 3,
+                    "Power_Ext": "наружный блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 44226,
+                        "P1": 48321,
+                        "R": 40950,
+                        "RRC": 83400
+                    }
+                }
+            },
+            "Тепловой насос -30С": {
+                "KFRI25LOW/KORI25LOW (copy 4)": {
+                    "Description": "Сплит - система настенная / тепловой насос",
+                    "Dimensions": {
+                        "Depth": 121,
+                        "Height": 294,
+                        "Width": 889
+                    },
+                    "Model": "Pioneer KFRI25LOW/KORI25LOW",
+                    "Options": "WIFI в комплекте",
+                    "Pics": [
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_1.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_2.jpg",
+                        "https://storage.yandexcloud.net/pics-for-hvacbot/images/pioneer/kfri25low_3.jpg"
+                    ],
+                    "Pipe_differences": {
+                        "height": 10,
+                        "length": 25
+                    },
+                    "Pipe_size": {
+                        "G": 6.35,
+                        "L": 9.52
+                    },
+                    "Pow_cool": 2.7,
+                    "Pow_heat": 3,
+                    "Power_Ext": "наружный блок",
+                    "Power_V": 220,
+                    "Price": {
+                        "K": 44226,
+                        "P1": 48321,
+                        "R": 40950,
+                        "RRC": 83400
+                    }
+                }
+            }
+        },
+        "Универсальные": {
+            "Invertor": {},
+            "OnOff": {}
+        }
+    }
+}
